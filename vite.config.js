@@ -4,5 +4,5 @@ import react from "@vitejs/plugin-react";
 
 export default defineConfig({
   plugins: [react()],
-  base: "/hod/", // Replace 'your-repo-name' with your actual GitHub repository name
+  base: "https://github.com/mechero16/hod/settings/pages", // Replace 'your-repo-name' with your actual GitHub repository name
 });
